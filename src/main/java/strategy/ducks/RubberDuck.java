@@ -1,7 +1,7 @@
-package strategy.ducks;
+package ducks;
 
-import strategy.ducks.flyable.IDontFly;
-import strategy.ducks.quackable.Squeak;
+import ducks.flyable.IDontFly;
+import ducks.quackable.Squeak;
 
 /**
  * Created by Professional on 2017-12-31.

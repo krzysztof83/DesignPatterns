@@ -1,4 +1,9 @@
-import strategy.ducks.*;
+package start;
+
+import ducks.Duck;
+import ducks.RubberDuck;
+import ducks.ShovellerDuck;
+import ducks.WildDuck;
 
 import java.util.Stack;
 
@@ -24,5 +29,7 @@ public class MiniSimulatorDuck {
             System.out.println(duck.doFly());
             System.out.println("-------------");
         }
+
+
     }
 }

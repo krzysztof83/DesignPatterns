@@ -1,4 +1,4 @@
-package strategy.ducks.flyable;
+package ducks.flyable;
 
 /**
  * Created by Professional on 2017-12-31.

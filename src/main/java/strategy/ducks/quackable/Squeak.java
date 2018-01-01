@@ -1,4 +1,4 @@
-package strategy.ducks.quackable;
+package ducks.quackable;
 
 /**
  * Created by Professional on 2017-12-31.

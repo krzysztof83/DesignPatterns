@@ -1,8 +1,8 @@
-package strategy.ducks;
+package ducks;
 
 
-import strategy.ducks.flyable.Flyable;
-import strategy.ducks.quackable.Quackable;
+import ducks.flyable.Flyable;
+import ducks.quackable.Quackable;
 
 /**
  * Created by Professional on 2017-12-31.

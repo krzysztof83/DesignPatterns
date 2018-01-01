@@ -1,6 +1,5 @@
 package start;
 
-
 import weatherStation.WeatherData;
 import weatherStation.displays.CurrentConditionsDisplay;
 import weatherStation.displays.ForecastDisplay;

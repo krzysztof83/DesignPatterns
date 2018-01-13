@@ -1,4 +1,4 @@
-package start;
+package ducks.start;
 
 import ducks.Duck;
 import ducks.RubberDuck;

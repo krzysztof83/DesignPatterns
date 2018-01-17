@@ -17,7 +17,7 @@ public class MyFrame extends JFrame {
     @Override
     public void paint(Graphics g) {
         super.paint(g);
-        String msg = "Message in piant method";
+        String msg = "Message in paint method";
         g.drawString(msg,100,100);
     }
 
